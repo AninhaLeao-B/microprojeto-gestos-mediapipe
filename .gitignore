@@ -1,0 +1,22 @@
+﻿# Dependências e arquivos gerados
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambiente e sistema
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
